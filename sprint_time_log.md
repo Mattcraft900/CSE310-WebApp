@@ -26,10 +26,10 @@ The expected minimum amount of time each Sprint for each category is as follows:
 
 |Date      |Category |Description                                               |Total Minutes|
 |----------|:-------:|----------------------------------------------------------|:-----------:|
-| 6/22/26  | IM      | Worked on Module 5 Plan                                  | 1:00        |
+| 6/22/26  | IM      | Worked on Module 5 Plan, research                        | 1:00        |
 | 6/23/26  | TM/MTG  | Sprint meetings, Team presentations                      | 1:30        |
-| 6/25/26  | TM/MTG  | Standup, worked on map view plans                        | 1:30        |
-|   |       |                                   |         |
+| 6/25/26  | TM/MTG  | Standup, etc.                                            | 0:30        |
+| 6/25/26  | IM      | Setup repo, do research                                  | 1:00        |
 
 
 
